@@ -2,3 +2,4 @@
 SQL Practice Questions 
 
 My own solutions + schema modifications from this repo: https://github.com/Aafreen29/SQL-Interview-Prep-Question.
+Online mySQL runner: https://www.db-fiddle.com/
